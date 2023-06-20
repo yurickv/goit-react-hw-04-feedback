@@ -1,0 +1,23 @@
+.button {
+  padding: 5px;
+  border-radius: 5px;
+  font-size: 20px;
+  width: 100px;
+  background-color: goldenrod;
+}
+.button:hover {
+  border-color: antiquewhite;
+  color: antiquewhite;
+}
+
+.buttonThumb {
+  display: flex;
+  gap: 30px;
+  justify-content: center;
+}
+.buttonThumb button:first-child {
+  background-color: green;
+}
+.buttonThumb button:last-child {
+  background-color: tomato;
+}

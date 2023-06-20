@@ -1,0 +1,13 @@
+.icon {
+  width: 30px;
+  height: 30px;
+}
+.statList {
+  list-style: none;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  background-color: cornsilk;
+  width: 450px;
+}
